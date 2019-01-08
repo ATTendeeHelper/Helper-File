@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=ATTendee Helper.chm
+Contents file=Table of Contents.hhc
+Default Window=me
+Default topic=home.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+
+[WINDOWS]
+me=,"Table of Contents.hhc","Index.hhk","home.htm",,,"Next",,"Previous",0x2120,,0x200e,,,,,,,,0
+
+
+[INFOTYPES]
+
